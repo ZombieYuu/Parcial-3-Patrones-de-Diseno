@@ -16,3 +16,9 @@ Juana Vargas Ossa y David Vanegas Londoño
 ## Ejecutable:
 
 https://drive.google.com/file/d/1Pw9N3pRQDpnrjayz4I_G-CNXxA81WxrS/view?usp=sharing
+
+## Nota
+
+la carpeta de library que se supone debe estar para ver el archivo de Unity era demasiado pesado y no dejaba subirlo en el repositorio por lo cual lo montamos en un drive como archivo .zip el enlace es este:
+
+https://drive.google.com/file/d/1nlEctsuH76HVVExKj3LnUgzRC9iM1R_b/view?usp=sharing
